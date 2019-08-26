@@ -9,14 +9,14 @@
 ## Chức Năng Phần Mềm
 1. Đăng nhập: phần chia chức vụ đăng nhập `Admin`, `Quản lý nhân sự` và `Quản lý tiền lương` 
 2. Chức năng Xem, Thêm, Xóa, Sửa cho từng tác vụ đăng nhập
-    I. Nhân viên
-    II. Phòng ban
-    III. Chức vụ
-    IV. Chấm công
-    V. Lương cá nhân
-    VI. Bồi dưỡng
-    VII. Tạm ứng
-    VIII. Khen thưởng và kỹ luật
-    IX. Bảo hiểm
+    1. Nhân viên
+    2. Phòng ban
+    3. Chức vụ
+    4. Chấm công
+    5. Lương cá nhân
+    6. Bồi dưỡng
+    7. Tạm ứng
+    8. Khen thưởng và kỹ luật
+    9. Bảo hiểm
 
 # Kết thúc dữ nội dung
